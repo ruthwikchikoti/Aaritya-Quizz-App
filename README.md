@@ -26,7 +26,7 @@ This is a Flutter-based quiz application that allows users to test their knowled
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ruthwikchikoti/Aaritya-Quizz-App.git
+    git clone https://github.com/ruthwikchikoti/Quizz-App.git
     ```
 2. Navigate to the project directory:
     ```bash
